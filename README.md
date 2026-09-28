@@ -2,13 +2,30 @@
 
 ### Cybersecurity GRC | Infrastructure Security | Risk & Compliance | Security Controls
 
-I'm a **Cybersecurity Governance, Risk & Compliance (GRC) professional** with a growing specialization in **infrastructure security, security controls, risk management, and regulatory compliance**.
+I'm a **Cybersecurity Governance, Risk & Compliance (GRC) professional** focused on the intersection of **information security, infrastructure engineering, risk management, and regulatory compliance**.
 
-My focus is on connecting **technical security operations with governance and business requirements** translating cybersecurity risks into measurable controls, aligning infrastructure with recognized security frameworks, and supporting organizations in building secure, resilient, and auditable environments.
+My work and learning focus on translating cybersecurity requirements into **practical, measurable, and auditable security controls**—connecting technical infrastructure with governance objectives, organizational risk, and recognized security frameworks.
 
-I am particularly interested in the intersection of **Cybersecurity GRC, Infrastructure Security, Risk Management, Compliance Engineering, and Security Operations**, with a practical approach grounded in hands-on technical environments.
+I am particularly interested in building security programs that are not only compliant on paper, but **implemented, testable, evidence-driven, and continuously improved**.
+
+My technical interests span **Linux and infrastructure security, network security, vulnerability assessment, security controls, risk analysis, compliance frameworks, third-party risk management, and security operations**.
 
 > **Security is not only a technical problem; it is a governance, risk, and accountability problem.**
+
+### 🎯 My Security Focus
+
+**Governance & Compliance** → Security frameworks, policies, controls, compliance monitoring and audit readiness
+
+**Risk Management** → Risk identification, assessment, treatment, remediation and continuous monitoring
+
+**Infrastructure Security** → Linux, networking, system hardening, access control and secure configuration
+
+**Security Testing** → Network reconnaissance, vulnerability assessment and controlled web application security testing
+
+**Security Assurance** → Control validation, evidence collection, gap assessment and security documentation
+
+**Business Resilience** → Incident response, business continuity, disaster recovery and operational resilience
+
 
 ---
 
