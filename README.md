@@ -4,7 +4,7 @@
 
 I'm a **Cybersecurity Governance, Risk & Compliance (GRC) professional** with a growing specialization in **infrastructure security, security controls, risk management, and regulatory compliance**.
 
-My focus is on connecting **technical security operations with governance and business requirements**—translating cybersecurity risks into measurable controls, aligning infrastructure with recognized security frameworks, and supporting organizations in building secure, resilient, and auditable environments.
+My focus is on connecting **technical security operations with governance and business requirements** translating cybersecurity risks into measurable controls, aligning infrastructure with recognized security frameworks, and supporting organizations in building secure, resilient, and auditable environments.
 
 I am particularly interested in the intersection of **Cybersecurity GRC, Infrastructure Security, Risk Management, Compliance Engineering, and Security Operations**, with a practical approach grounded in hands-on technical environments.
 
