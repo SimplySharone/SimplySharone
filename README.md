@@ -1,12 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071B33,100:00B8C4&amp;height=240&amp;section=header&amp;text=Sharon%20Omowumi&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Cybersecurity%20GRC%20%7C%20Infrastructure%20Security%20%7C%20Risk%20%26%20Compliance&amp;descSize=17&amp;descAlignY=58" alt="Sharon Omowumi — Cybersecurity GRC, Infrastructure Security, Risk and Compliance" />
-
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira%20Code&amp;size=22&amp;duration=3500&amp;pause=1000&amp;color=00B8C4&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Governance%2C%20Risk%20%26%20Compliance;Cybersecurity%20%26%20Infrastructure%20Security;Security%20Controls%20%26%20Compliance%20Assurance;ISO%2027001%20%7C%20NIST%20CSF%20%7C%20SOC%202%20%7C%20GDPR;Risk%20Assessment%20%7C%20Third-Party%20Risk%20Management;Linux%20%7C%20Network%20Security%20%7C%20Security%20Testing;Turning%20Security%20Requirements%20into%20Practical%20Controls" alt="Cybersecurity GRC, infrastructure security, risk management, security controls, and compliance" />
-
-</div>
-
-----
 #  Hi, I'm Sharon Omowumi
 
 ### Cybersecurity GRC | Infrastructure Security | Risk & Compliance | Security Controls
