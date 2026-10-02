@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.svg" alt="Sharon Omowumi | Cybersecurity GRC, Infrastructure Security, Risk & Compliance" width="100%">
+</p>
 #  Hi, I'm Sharon Omowumi
 
 ### Cybersecurity GRC | Infrastructure Security | Risk & Compliance | Security Controls
