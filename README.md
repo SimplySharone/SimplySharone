@@ -1,6 +1,9 @@
 ---
 <p align="center">
-  <img src="banner.svg" alt="Sharon Omowumi | Cybersecurity GRC, Infrastructure Security, Risk & Compliance" width="100%">
+  <img src="assets/header.svg" alt="Sharon Omowumi | Cybersecurity GRC, Infrastructure Security, Risk & Compliance" width="100%">
+</p>
+<p align="center">
+  <img src="assets/typing.svg" alt="Cybersecurity GRC, infrastructure security, risk and compliance">
 </p>
 
 #  Hi, I'm Sharon Omowumi
@@ -257,3 +260,6 @@ I'm interested in connecting with cybersecurity professionals, GRC practitioners
 ### 🔐 Building secure infrastructure. Managing risk. Strengthening governance.
 
 *Turning cybersecurity requirements into practical, measurable, and defensible security controls.*
+<p align="center">
+  <img src="assets/footer.svg" alt="Building secure infrastructure. Managing risk. Strengthening governance." width="100%">
+</p>
